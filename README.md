@@ -17,10 +17,8 @@
     <td width="40%" valign="top">
       <h3><code style="color: #00FF66;">> Offline Interests</code></h3>
       <p>
-        <code>[ICE_HOCKEY]</code> Player & Coach<br />
+        <code>[ICE_HOCKEY]</code> Player & Level 2 Coach<br />
         <code>[WING_CHUN]</code> Ving Tsun Athletics<br />
-        <code>[JAPANESE]</code> Conversational Study<br />
-        <code>[MUSIC]</code> Instrument Exploration
       </p>
     </td>
   </tr>
@@ -41,3 +39,36 @@
 ---
 
 ### `<CAREER_TIMELINE>`
+<details>
+<summary><b>🔍 Expand Detailed Role Breakdowns</b></summary>
+<br/>
+
+#### 🟢 L39 Tech — Developer (June 2026 - Present)
+* Developing Flutter applications on Windows & Android for defence solutions (drone detection, radar, frequency jamming)[cite: 1].
+* Integrating map-focused UI with real-time signal tracking[cite: 1].
+
+#### 🟢 Arquella — Developer (Jan 2020 - June 2026)
+* Developed care & call management systems integrating with IoT devices and databases (Firebase, PostgreSQL, MySQL)[cite: 1].
+* Built Flutter Android app, React/TypeScript web apps, and Node.js REST/WebSocket APIs for nurse call systems[cite: 2].
+* Integrated Alexa voice-activated alerts and Nourish Careplanning software[cite: 2].
+
+#### 🟢 SDL plc — Senior Support Engineer (Jan 2008 - Jan 2020)
+* Provided 2nd-level technical support across global enterprise deployments in AWS, Linux, and Windows environments[cite: 2].
+* Built internal search and log automation tools to cut operational costs[cite: 2].
+
+</details>
+
+---
+
+### `<GITHUB_STATS>`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&theme=cyberpunk&show_icons=true&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&theme=cyberpunk&layout=compact&hide_border=false" width="48%" />
+</div>
+
+---
+
+<div align="center">
+  <sub><code>SYSTEM_STATUS: ONLINE</code> | Linked via GitHub Pages / Profile README</sub>
+</div>
