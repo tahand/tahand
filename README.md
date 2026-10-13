@@ -60,7 +60,7 @@
 
 ---
 
-### `<GITHUB_STATS>`
+<!-- ### `<GITHUB_STATS>`
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tahand&theme=cyberpunk&show_icons=true&hide_border=false" width="48%" />
@@ -69,7 +69,7 @@
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=andrew-chapman&theme=cyberpunk)
----
+--- -->
 
 <div align="center">
   <sub><code>SYSTEM_STATUS: ONLINE</code> | Linked via GitHub Pages / Profile README</sub>
