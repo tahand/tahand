@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF66&center=true&vcenter=true&width=600&lines=USER_LANDING_PAGE%3A+~+%24+run+initialize;SYSTEM_STATUS%3A+ONLINE;ANDREW+CHAPMAN+%7C+FULL-STACK+DEV" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF66&center=true&vcenter=true&width=600&lines=ANDREW+CHAPMAN%3A+~+%24+run+initialize;SYSTEM_STATUS%3A+ONLINE;ANDREW+CHAPMAN+%7C+FULL-STACK+DEV" alt="Typing Banner" />
 </div>
 
 <br />
@@ -63,8 +63,8 @@
 ### `<GITHUB_STATS>`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&theme=cyberpunk&show_icons=true&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&theme=cyberpunk&layout=compact&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahand&theme=cyberpunk&show_icons=true&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahand&theme=cyberpunk&layout=compact&hide_border=false" width="48%" />
 </div>
 
 ---
