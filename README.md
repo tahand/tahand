@@ -67,6 +67,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahand&theme=cyberpunk&layout=compact&hide_border=false" width="48%" />
 </div>
 
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=andrew-chapman&theme=cyberpunk)
 ---
 
 <div align="center">
